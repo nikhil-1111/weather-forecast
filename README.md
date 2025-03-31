@@ -3,7 +3,7 @@ ML model created for prediction the weather - only for educational purpose !
 # Classification Model README
 
 ## Overview
-This repository contains a machine learning classification model that predicts wether forcast based on past data anf categories based on input data. The model outputs a probability vector, which is then mapped to human-readable labels.
+This repository contains a machine learning classification model that predicts wether forcast based on past data and categories based on input data. The model outputs a probability vector, which is then mapped to human-readable labels.
 
 ## Installation
 To use this model, ensure you have Python installed along with the necessary dependencies.
